@@ -15,5 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![Mateus's github stats](https://github-readme-stats.vercel.app/api?username=mttorres&theme=dark&show_icons=true&count_private=true&role=OWNER,COLLABORATOR)](https://github.com/mttorres)
+<div align="center">
+  
+<a href="https://github.com/mttorres">  
+  <img width="420px" src="https://github-readme-stats.vercel.app/api?username=mttorres&theme=dark&show_icons=true&count_private=true&role=OWNER,COLLABORATOR" />
+</a>  
+<br/>  
+<a href="https://github.com/mttorres">    
+  <img width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mttorres&hide=html&theme=dracula&layout=compact&show_icons=true" />
+</a>    
+</div>

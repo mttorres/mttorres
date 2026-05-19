@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 I ~destroy~ write code!
 
-- 🔭 I’m currently working on rewriting [tdsRepLanguage](https://github.com/mttorres/tdsRepLanguage) (who knows when i will finish)   
-- 🌱 I’m currently sharpening my Go and Software Architecture skills
+- 🔭 I’m currently working on rewriting [tdsRepLanguage](https://github.com/mttorres/tdsRepLanguage) as a hobby   
+- 🌱 I’m currently sharpening my Go, Software Architecture skills and Agents Automations
 - ⚡ Fun fact: I also edit videos
 
 ## My Current Skill Tree  
@@ -62,7 +62,7 @@ I ~destroy~ write code!
 </td>
 </table>
 
-
+<!--
 ## Github Stats  
 <div align="center">
   
@@ -74,3 +74,4 @@ I ~destroy~ write code!
   <img width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mttorres&hide=html&theme=dracula&layout=compact&show_icons=true" />
 </a>    
 </div>
+-->
